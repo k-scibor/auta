@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\5m\\source\\repos\\auta\\",
+  "WorkspaceRootPath": "C:\\Users\\5m\\Desktop\\samochud\\auta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\source\\repos\\auta\\auta\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\desktop\\samochud\\auta\\auta\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|solutionrelative:auta\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\desktop\\samochud\\auta\\auta\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|solutionrelative:auta\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\source\\repos\\auta\\auta\\src\\auto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|solutionrelative:auta\\src\\auto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\source\\repos\\auta\\auta\\src\\assets\\konfigurator\\ceny.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|solutionrelative:auta\\src\\assets\\konfigurator\\ceny.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|c:\\users\\5m\\desktop\\samochud\\auta\\auta\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{98CF3ED3-FF6A-96B5-2622-61908D13CC77}|auta\\auta.esproj|solutionrelative:auta\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\index.html",
+              "RelativeDocumentMoniker": "auta\\index.html",
+              "ToolTip": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\index.html",
+              "RelativeToolTip": "auta\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T11:57:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ceny.txt",
-              "DocumentMoniker": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\assets\\konfigurator\\ceny.txt",
-              "RelativeDocumentMoniker": "auta\\src\\assets\\konfigurator\\ceny.txt",
-              "ToolTip": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\assets\\konfigurator\\ceny.txt",
-              "RelativeToolTip": "auta\\src\\assets\\konfigurator\\ceny.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-31T07:20:20.673Z",
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\src\\index.css",
+              "RelativeDocumentMoniker": "auta\\src\\index.css",
+              "ToolTip": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\src\\index.css",
+              "RelativeToolTip": "auta\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T11:35:12.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Auto.jsx",
-              "DocumentMoniker": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\Auto.jsx",
-              "RelativeDocumentMoniker": "auta\\src\\Auto.jsx",
-              "ToolTip": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\Auto.jsx",
-              "RelativeToolTip": "auta\\src\\Auto.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-10-31T07:15:53.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\App.jsx",
+              "DocumentMoniker": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\src\\App.jsx",
               "RelativeDocumentMoniker": "auta\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\5m\\source\\repos\\auta\\auta\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\5m\\Desktop\\samochud\\auta\\auta\\src\\App.jsx",
               "RelativeToolTip": "auta\\src\\App.jsx",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-10-31T07:15:12.212Z",
               "EditorCaption": ""
